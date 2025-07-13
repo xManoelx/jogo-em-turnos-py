@@ -37,4 +37,5 @@ bashpython jogo_rpg.py
 👥 Personagens Padrão
 
 Herói: Vida 100, Nível 5, Habilidade "Superforça"
+
 Inimigo: Morcego, Vida 80, Nível 5, Tipo "Voador"

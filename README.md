@@ -32,10 +32,11 @@ Herança: Classes Heroi e Inimigo herdam de Personagem
 Polimorfismo: Método exibir_detalhes() é sobrescrito nas classes filhas
 Abstração: Interface simples para o usuário interagir com o jogo
 
+
 🚀 Como Executar
 bashpython jogo_rpg.py
+
 👥 Personagens Padrão
 
 Herói: Vida 100, Nível 5, Habilidade "Superforça"
-
 Inimigo: Morcego, Vida 80, Nível 5, Tipo "Voador"

@@ -1,7 +1,9 @@
 ⚔️ Jogo de RPG em Python
 Um jogo de RPG simples desenvolvido em Python utilizando os conceitos de Orientação a Objetos.
+
 🎮 Como Funciona
 O jogo é uma batalha por turnos entre um herói e um inimigo. O jogador controla o herói e pode escolher entre dois tipos de ataque para derrotar o adversário.
+
 🎯 Mecânica do Jogo
 
 Início da Batalha: O jogo apresenta os detalhes dos personagens (vida, nível, habilidades)
